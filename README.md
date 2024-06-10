@@ -1,6 +1,6 @@
 ### Physics-Earthquake-resistant-design
 
-1. [다운]()
+1. [다운](https://github.com/Ruptung1/Physics-Earthquake-resistant-design/releases)
 2. 압축해제
 3. 유니티 실행
 4. 압축 해재한 파일에서 "내진설계_시뮬레이터.unitypackage" 더블 클릭
