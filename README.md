@@ -1,5 +1,5 @@
 ### Physics-Earthquake-resistant-design
- import [다운](https://github.com/Ruptung1/Physics-Earthquake-resistant-design/releases) via *Assets-Import Package*
+
 1. [다운]()
 2. 압축해제
 3. 유니티 실행
